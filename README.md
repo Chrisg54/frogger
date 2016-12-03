@@ -5,7 +5,7 @@ Frogger arcade game for the Udacity Front End We Developer Nano-Degree.
 ##Play
 Collect the three gems to win. Move the player using the up/down and left/right keys Restart browser to play again.
 
-##Installtion
+##Installation
 Download the project and open the index.html file in your browser.
 
 ## License
